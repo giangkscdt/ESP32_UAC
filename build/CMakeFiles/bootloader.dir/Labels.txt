@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/usb_uac2/build/CMakeFiles/bootloader
+E:/usb_uac2/build/CMakeFiles/bootloader.rule
+E:/usb_uac2/build/CMakeFiles/bootloader-complete.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/usb_uac2/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

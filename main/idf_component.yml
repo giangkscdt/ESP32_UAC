@@ -1,0 +1,3 @@
+dependencies:
+  usb_device_uac:
+    version: 0.*
