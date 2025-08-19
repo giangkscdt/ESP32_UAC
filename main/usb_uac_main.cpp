@@ -166,9 +166,9 @@ esp_err_t uac_device_input_cb(uint8_t *buf, size_t len, size_t *bytes_read, void
         if (current_block != -1) {
             //out[i] = audio_buffers[current_block][sample_pos++];
 						int16_t sample = audio_buffers[current_block][sample_pos++];
-sample = apply_highpass_filter(sample);  // nếu có HPF
-sample = apply_lowpass_filter(sample);   // sau đó LPF
-sample = apply_notch_filter(sample);
+//sample = apply_highpass_filter(sample);  // nếu có HPF
+//sample = apply_lowpass_filter(sample);   // sau đó LPF
+//sample = apply_notch_filter(sample);
 out[i] = sample;
         } else {
             out[i] = 0; // fallback: không có dữ liệu
