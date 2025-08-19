@@ -1,0 +1,2 @@
+source E:/UAC/build/bootloader/gdbinit/symbols
+source E:/UAC/build/bootloader/gdbinit/connect

@@ -1,0 +1,11 @@
+# ESP-IDF build output
+build
+.bin
+.elf
+.map
+
+# VSCode settings (nếu dùng)
+.vscode
+
+# SDK config backups
+sdkconfig.old
